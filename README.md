@@ -1,3 +1,2 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1195096721433317416)](https://discord.com/users/1195096721433317416)
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/94490510688792576)
 [![AirDead's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=user6369iF&theme=dark)]([https://github.com/KnlnKS/leetcode-stats](https://leetcode.com/user6369iF/)https://leetcode.com/user6369iF/)
